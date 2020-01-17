@@ -2,4 +2,4 @@
 
 第一步：将字体下载
 第二步：在电脑上安装字体
- ![Image text]（）
+ ![Image text]（pic/anzhuang）
